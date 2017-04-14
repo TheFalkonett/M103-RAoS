@@ -1,0 +1,10 @@
+<turret_02.model>
+  <nodefullVisual>vehicles/TheFalkonett's RAoS/A66_M103/normal/lod0/Turret_02</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.54839 0.000000 -3.08574</min>
+    <max>1.54839 3.30047 1.55619</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</turret_02.model>
